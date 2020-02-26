@@ -1,0 +1,13 @@
+C:\Users\nkendjur\Desktop\Projekat\Restoran\Restoran\bin\Debug\Restoran.exe.config
+C:\Users\mlukic\Documents\Projekat\Restoran\Restoran\bin\Debug\Restoran.exe.config
+C:\Users\mlukic\Documents\Projekat\Restoran\Restoran\bin\Debug\Restoran.exe
+C:\Users\mlukic\Documents\Projekat\Restoran\Restoran\bin\Debug\Restoran.pdb
+C:\Users\mlukic\Documents\Projekat\Restoran\Restoran\obj\Debug\Restoran.csprojResolveAssemblyReference.cache
+C:\Users\mlukic\Documents\Projekat\Restoran\Restoran\obj\Debug\Restoran.Form1.resources
+C:\Users\mlukic\Documents\Projekat\Restoran\Restoran\obj\Debug\Restoran.login.resources
+C:\Users\mlukic\Documents\Projekat\Restoran\Restoran\obj\Debug\Restoran.Properties.Resources.resources
+C:\Users\mlukic\Documents\Projekat\Restoran\Restoran\obj\Debug\Restoran.csproj.GenerateResource.Cache
+C:\Users\mlukic\Documents\Projekat\Restoran\Restoran\obj\Debug\Restoran.exe
+C:\Users\mlukic\Documents\Projekat\Restoran\Restoran\obj\Debug\Restoran.pdb
+C:\Users\mlukic\Documents\Projekat\Restoran\Restoran\obj\Debug\Restoran.admin.resources
+C:\Users\mlukic\Documents\Projekat\Restoran\Restoran\obj\Debug\Restoran.pocetna.resources
