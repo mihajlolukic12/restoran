@@ -35,8 +35,19 @@ namespace Restoran
 
         private void admin_Load(object sender, EventArgs e)
         {
+            monthCalendar1.ShowToday = false;
+            datum = monthCalendar1.SelectionRange.Start;
             monthCalendar1.MaxSelectionCount = 1;
-            label3.Text = datum.ToString();
+            label2.Text = "";
+            label3.Text = datum.ToString("dd.MM.yyyy.");
+            button2.Text = "Rikverc";
+        }
+
+        private void Button2_Click(object sender, EventArgs e)
+        {
+            pocetna pocetna = new pocetna();
+            pocetna.Show();
+            this.Hide();
         }
     }
 }

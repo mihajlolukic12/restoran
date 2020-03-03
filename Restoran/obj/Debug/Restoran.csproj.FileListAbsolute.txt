@@ -11,3 +11,16 @@ C:\Users\mlukic\Documents\Projekat\Restoran\Restoran\obj\Debug\Restoran.exe
 C:\Users\mlukic\Documents\Projekat\Restoran\Restoran\obj\Debug\Restoran.pdb
 C:\Users\mlukic\Documents\Projekat\Restoran\Restoran\obj\Debug\Restoran.admin.resources
 C:\Users\mlukic\Documents\Projekat\Restoran\Restoran\obj\Debug\Restoran.pocetna.resources
+C:\Users\Dragana\Documents\GitHub\restoran\Restoran\bin\Debug\Restoran.exe.config
+C:\Users\Dragana\Documents\GitHub\restoran\Restoran\bin\Debug\Restoran.exe
+C:\Users\Dragana\Documents\GitHub\restoran\Restoran\bin\Debug\Restoran.pdb
+C:\Users\Dragana\Documents\GitHub\restoran\Restoran\obj\Debug\Restoran.csprojAssemblyReference.cache
+C:\Users\Dragana\Documents\GitHub\restoran\Restoran\obj\Debug\Restoran.admin.resources
+C:\Users\Dragana\Documents\GitHub\restoran\Restoran\obj\Debug\Restoran.Form1.resources
+C:\Users\Dragana\Documents\GitHub\restoran\Restoran\obj\Debug\Restoran.login.resources
+C:\Users\Dragana\Documents\GitHub\restoran\Restoran\obj\Debug\Restoran.pocetna.resources
+C:\Users\Dragana\Documents\GitHub\restoran\Restoran\obj\Debug\Restoran.Properties.Resources.resources
+C:\Users\Dragana\Documents\GitHub\restoran\Restoran\obj\Debug\Restoran.csproj.GenerateResource.cache
+C:\Users\Dragana\Documents\GitHub\restoran\Restoran\obj\Debug\Restoran.csproj.CoreCompileInputs.cache
+C:\Users\Dragana\Documents\GitHub\restoran\Restoran\obj\Debug\Restoran.exe
+C:\Users\Dragana\Documents\GitHub\restoran\Restoran\obj\Debug\Restoran.pdb
