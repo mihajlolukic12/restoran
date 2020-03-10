@@ -40,7 +40,7 @@ namespace Restoran
             monthCalendar1.MaxSelectionCount = 1;
             label2.Text = "";
             label3.Text = datum.ToString("dd.MM.yyyy.");
-            button2.Text = "Rikverc";
+            button2.Text = "Izloguj se";
         }
 
         private void Button2_Click(object sender, EventArgs e)
