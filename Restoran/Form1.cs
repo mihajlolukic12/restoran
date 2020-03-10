@@ -37,7 +37,7 @@ namespace Restoran
 
             Random r = new Random();
             int randomSto;
-            randomSto = 7;
+            randomSto = r.Next(1, 12);
 
             switch (randomSto)
             {
@@ -68,7 +68,6 @@ namespace Restoran
                 case 7:
                     pictureBox7.BackColor = Color.Red;
                     pictureBox7.Enabled = true;
-                    pictureBox7.MouseHover += new EventHandler(PictureBox7_MouseHover);
                     break;
                 case 8:
                     pictureBox8.BackColor = Color.Red;
